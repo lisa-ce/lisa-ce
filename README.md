@@ -1,6 +1,6 @@
 # Hello friend! 👋
 
-I'm **Lisa or miss lisa(for the fun of it of course)**.
+I'm **Lisa or miss Lisa(for the fun of it of course)**.
 
 Welcome to my open-source playground! 🚀
 
@@ -13,7 +13,14 @@ Welcome to my open-source playground! 🚀
 ![VS Code](https://img.shields.io/badge/Editor-VSCode-blue?logo=visualstudiocode)
 ![Git](https://img.shields.io/badge/Version-Git-orange?logo=git)
 ![Python](https://img.shields.io/badge/Language-Python-blue?logo=python)
+![Java](https://img.shields.io/badge/Language-Java-red?logo=java)
+![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow?logo=javascript)
+![HTML](https://img.shields.io/badge/Language-HTML5-orange?logo=html5)
+![CSS](https://img.shields.io/badge/Language-CSS3-blue?logo=css3)
+![SQL](https://img.shields.io/badge/Database-SQL-blueviolet?logo=sqlite)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=laravel)
+![Ballerina](https://img.shields.io/badge/Language-Ballerina-purple?logo=ballerina)
+
 
 ## 💻 Operating Systems
 ![Linux](https://img.shields.io/badge/OS-Linux-yellow?logo=linux)
@@ -27,4 +34,3 @@ Welcome to my open-source playground! 🚀
 
 ## 🔤 Languages I’m Using
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
-
