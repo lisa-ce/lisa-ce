@@ -20,6 +20,7 @@ Welcome to my open-source playground
 ![SQL](https://img.shields.io/badge/Database-SQL-blueviolet?logo=sqlite)
 ![Laravel](https://img.shields.io/badge/Framework-Laravel-red?logo=laravel)
 ![Ballerina](https://img.shields.io/badge/Language-Ballerina-purple?logo=ballerina)
+![Kotlin](https://img.shields.io/badge/Language-Ballerina-purple?logo=ballerina)
 
 
 ## Operating Systems
